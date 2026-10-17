@@ -261,13 +261,7 @@ Pin assignments are stored in [`traffic_light.qsf`](traffic_light.qsf). Key I/O 
 
 ---
 
-## 👤 Author
 
-**Tirtha**  
-GitHub: [@Tirtha2005](https://github.com/Tirtha2005)  
-Project: [Traffic-Light-Controller-Verilog-Based-](https://github.com/Tirtha2005/Traffic-Light-Controller-Verilog-Based-)
-
----
 
 ## 📜 License
 
