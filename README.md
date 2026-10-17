@@ -268,5 +268,3 @@ Pin assignments are stored in [`traffic_light.qsf`](traffic_light.qsf). Key I/O 
 This project is licensed under the **MIT License** — free to use, modify, and distribute with attribution.
 
 ---
-
-*Built with ❤️ using Verilog HDL and Intel Quartus Prime*
