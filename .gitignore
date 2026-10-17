@@ -1,0 +1,19 @@
+# Quartus generated files (large binary/incremental)
+db/
+incremental_db/
+work/
+
+# ModelSim simulation artifacts
+*.wlf
+vsim.wlf
+
+# Quartus backup files
+*.v.bak
+*.qws
+
+# Large FPGA bitstream (optional — uncomment to exclude)
+# output_files/*.sof
+
+# OS files
+.DS_Store
+Thumbs.db
